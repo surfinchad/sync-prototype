@@ -1,0 +1,8 @@
+# Sync prototype
+
+Sync is a music dating app: you match on taste, and a Claude agent called Cue explains the match and helps start the chat. This is the prototype for an ITB midterm.
+
+- Explainer with the prototype built in: https://surfinchad.github.io/sync-prototype/
+- The prototype on its own (best on a phone): https://surfinchad.github.io/sync-prototype/demo.html
+
+It runs in demo mode: the tools are real and Cue's wording is scripted, so no AI model answers and no key is needed. The members and their chats are fictional. Album art and 30 second previews come from Apple's public iTunes Search API.
